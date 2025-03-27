@@ -1,5 +1,3 @@
-Here's your updated README with the deployment link:  
-
 ---
 
 # 🎯 Number Guessing Game  
@@ -51,4 +49,4 @@ Happy coding! 🎉
 
 ---
 
-Let me know if you need any more changes! 😊🚀
+
